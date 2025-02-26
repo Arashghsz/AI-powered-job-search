@@ -1,0 +1,7 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.1.0
+python-dotenv>=1.0.0
+lxml>=4.9.0  # Better HTML parser for BeautifulSoup
+html5lib>=1.1  # Alternative HTML parser
+groq>=0.4.0
