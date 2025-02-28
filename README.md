@@ -61,14 +61,6 @@ Options:
 - `--output`: Custom output filename
 - `--model`: Name of the sentence transformer model to use (default: all-MiniLM-L6-v2)
 
-#### Enhanced Job Ranking with GROQ API
-
-For more accurate matching, sentiment analysis, and domain knowledge:
-
-```bash
-python rank_jobs_groq.py "your search query" [--file DATA_FILE] [--output OUTPUT_FILE] [--max-jobs MAX_JOBS]
-```
-
 Multiple queries are also supported:
 
 ```bash
