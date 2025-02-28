@@ -96,9 +96,6 @@ python rank_jobs.py "machine learning" "python" "remote"
 
 # Rank jobs with input file
 python rank_jobs.py "AI engineering" "full stack development" "software engineer" --file data/data.json
-
-# Enhanced ranking with sentiment analysis via GROQ API
-python rank_jobs_groq.py "AI engineering" --max-jobs 50
 ```
 
 ## Understanding the Output
